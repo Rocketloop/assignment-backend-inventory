@@ -45,7 +45,7 @@ The API you are going to build should be able to fulfill the following functiona
 
 ### Languages and Frameworks
 
-We are currently accepting submissions for both Python and Node.js/TypeScript. If you are planning on using Python to solve the assignment, please make sure to make use of a modern, asynchronous Python framework, such as FastAPI or Sanic. If you are planning on using Node.js to solve the assignment, please make sure to use a modern Node.js framework that supports TypeScript. In any case, please make sure to use the latest stable version of all
+We are currently accepting submissions for both Python and Node.js/TypeScript. If you are planning on using Python to solve the assignment, please make sure to make use of a modern, asynchronous Python framework, such as FastAPI or Sanic. If you are planning on using Node.js to solve the assignment, please make sure to use a modern Node.js framework that supports TypeScript. In any case, please make sure to use the latest stable version of all languages and frameworks used.
 
 ### Database
 
